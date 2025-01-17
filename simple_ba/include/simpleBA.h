@@ -107,6 +107,7 @@ namespace SimpleBA
         bool isFixed;
     };
 
+
     struct SyntheticSceneGenerator
     {
         SyntheticSceneGenerator() {};
